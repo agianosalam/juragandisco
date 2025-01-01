@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://agianosalam.github.io/juragandisco/sitemap.xml
